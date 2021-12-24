@@ -1,3 +1,6 @@
+# 2021/12/25更新日志
+完善Type-C驱动
+
 # Hackintosh-Gigabyte-Z490-i7-10700K-Rx5700xt
 ---
 - OpenCore 0.6.2 x64
