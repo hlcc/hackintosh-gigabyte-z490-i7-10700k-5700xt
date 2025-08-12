@@ -16,7 +16,7 @@
 
 ### 截图
 ---
-![桌面截图](images/desk.png "Monterey Desk")
+![桌面截图](https://github.com/hlcc/hackintosh-gigabyte-z490-i7-10700k-5700xt/blob/main/images/desk.png "Monterey")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1008/170135_dda8bfb0_608091.png "截屏2020-10-08 15.41.53.png")
 
