@@ -1,5 +1,5 @@
-# 2021/12/25更新日志
-完善Type-C驱动
+### 20250812更新
+修复配置，增加EFI资源文件，现在支持Monterey。
 
 # Hackintosh-Gigabyte-Z490-i7-10700K-Rx5700xt
 ---
@@ -16,7 +16,7 @@
 
 ### 截图
 ---
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1008/170123_3d50685d_608091.jpeg "截屏2020-10-08 15.41.40.jpg")
+![桌面截图](images/desk.png "Monterey Desk")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1008/170135_dda8bfb0_608091.png "截屏2020-10-08 15.41.53.png")
 
@@ -46,8 +46,6 @@
 我用过的工具和环境搭建工具都上传到网盘了，文件太大～
 
 **Tool**：链接: https://pan.baidu.com/s/1MqHYUgfnH_12sWAeaMSWxg  密码: v4mm
-
-**Resources**：链接: https://pan.baidu.com/s/11AgQqZS8TCoNrAGaqeODDQ  密码: sctu
 
 **环境**：链接: https://pan.baidu.com/s/1qfgL0f2WC8DXKC9j-cqKkQ  密码: 6i1d
  命令行工具和Python安装包（工具的运行环境）
