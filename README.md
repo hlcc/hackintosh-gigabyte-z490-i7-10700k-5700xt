@@ -1,8 +1,5 @@
-### 20250812更新
-修复配置，增加EFI资源文件，现在支持Monterey。
-
 # Hackintosh-Gigabyte-Z490-i7-10700K-Rx5700xt
----
+
 - OpenCore 0.6.2 x64
 - 硬件配置
     - CPU: intel i7 10700K
@@ -14,8 +11,17 @@
     - 机箱：乔思伯 UMX4
 - MacOS Catalina 10.15.7 (19H2)
 
+### 20250829 更新：增加 macOS Sequoia 配置
+
+### 20250812 更新：修复配置，增加EFI资源文件，现在支持Monterey。
+
+
+
 ### 截图
 ---
+
+![桌面截图](images/sequoia.png "Sequoia")
+
 ![桌面截图](https://github.com/hlcc/hackintosh-gigabyte-z490-i7-10700k-5700xt/blob/main/images/desk.png "Monterey")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1008/170135_dda8bfb0_608091.png "截屏2020-10-08 15.41.53.png")
@@ -41,6 +47,8 @@
 
 ### 使用说明
 ---
+MacOS Sequoia 的无线Wifi驱动需要OpenCore-Patcher修补。
+
 这个配置是最终优化后的驱动和配置文件，如果你不是很熟悉配置，建议你根据官方指导来配置。如果你的硬件和我一样的话，那么恭喜你，你直接白瞟了一个完美的黑苹果。Resources资源已从配置里删除，你可以从网盘下载替换掉Resources文件夹。
 
 我用过的工具和环境搭建工具都上传到网盘了，文件太大～
