@@ -20,7 +20,7 @@
 ### 截图
 ---
 
-![桌面截图](images/sequoia.png "Sequoia")
+![桌面截图](/images/sequoia.png "Sequoia")
 
 ![桌面截图](https://github.com/hlcc/hackintosh-gigabyte-z490-i7-10700k-5700xt/blob/main/images/desk.png "Monterey")
 
